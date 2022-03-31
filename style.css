@@ -1,0 +1,60 @@
+
+    h1, .header1{
+        color: purple;
+        font-style: italic;
+    }
+    #intro{
+        color: olivedrab;
+        font-weight: bold;
+    }
+    #FavDrink{
+        text-decoration: underline;
+        color:chocolate;
+    }
+    li{
+        font-style: oblique;
+    }
+    
+    .PopDrinks{
+        color:darkturquoise;
+    }
+    #Div1, .table{
+        background-color:antiquewhite;
+        color: blue;
+    }
+    #Div2{
+        background-color: snow;
+    }
+    #Div3{
+        background-color: oldlace;
+        border: solid;
+        margin: 5px;
+        padding: 20px;
+    }
+    #Div3:hover{
+        background-color: gold;
+    }
+    .submit{
+        box-shadow: 0 .2em #888;
+        background: #e6e6e6
+        cursor: pointer;
+    }
+    #Div4{
+        background-color: honeydew;
+    }
+    input[type=submit]{
+        color: purple;
+        font-weight: bold;
+    }
+    #Div1 {
+        margin:auto;
+        position: fixed;
+        bottom: 0;
+        right: 0;
+        width: 300px;
+    }
+    #randomLatin{
+        position: relative;
+        left: 40px;
+        width: 500px;
+    }
